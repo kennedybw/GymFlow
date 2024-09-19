@@ -1,0 +1,5 @@
+<Files "plugin.php">
+  Order deny,allow
+  Deny from all
+  Allow from localhost
+</Files>

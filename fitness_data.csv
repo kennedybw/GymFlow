@@ -1,0 +1,546 @@
+Gender,Age,Height,Weight,Current_Activity_Level,Exercise_Frequency,Experience_Level,Goals,Perceived_Barriers,Exercise_Types,Equipment_Availability,Preferred_Workout_Location,Preferred_Time,Exercise_Duration
+Female,22,5.1,120,Good,Never,Beginner ,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,24,5.1,115,Very good,Never,Beginner ,I want to be fit;I want to be flexible;I want to relieve stress;I'm sorry ... I'm not really interested in exercising,I don't have enough time;I'll become too tired,Walking or jogging;Swimming,No equipment,Outdoors,Early morning,0
+Female,17,5.6,130,Good,1 to 2 times a week,Intermediate,I want to be fit,I can't stay motivated,Walking or jogging,resistance bands,Outdoors,Early morning,30
+Female,18,5.1,120,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Evening,60
+Female,25,5.3,150,Unfit,Never,Beginner ,I want to be fit,I can't stay motivated,I don't really exercise,No equipment,Home,Evening,0
+Female,48,5,95,Average,3 to 4 times a week,Advanced,I want to be flexible,I exercise regularly with no barriers,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,60
+Female,16,5.2,160,Unfit,Never,Beginner ,I want to be fit;I'm sorry ... I'm not really interested in exercising,I can't stay motivated;I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,16,5.7,135,Average,1 to 2 times a week,Beginner ,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated;I'll become too tired;Less stamina,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,17,5.6,135,Average,Everyday,Intermediate,I want to relieve stress,I can't stay motivated,Walking or jogging;Yoga,Yoga mat,Home,Early morning,30
+Female,15,5.4,160,Unfit,2 to 3 times a week,Intermediate,I want to lose weight,I can't stay motivated,Zumba dance,No equipment,Home,Evening,30
+Female,24,5.6,140,Average,1 to 2 times a week,Beginner ,I want to relieve stress,I don't have enough time,Yoga,Yoga mat,Home,Early morning,60
+Female,23,5.4,125,Good,3 to 4 times a week,Intermediate,I want to be flexible,I don't have enough time,Yoga,Yoga mat,Home,Early morning,30
+Female,20,5.3,130,Average,1 to 2 times a week,Beginner ,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging;Yoga,No equipment,Outdoors,Early morning,30
+Female,24,5.5,140,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight,I can't stay motivated;I'll become too tired,Gym,Full gym access,Gym,Early morning,30
+Female,23,5.5,140,Average,Everyday,Intermediate,I want to lose weight,I don't have enough time,Gym;Swimming,Full gym access;Pool access,Gym,Evening,60
+Female,18,5.7,130,Good,Everyday,Intermediate,I want to be fit,I don't have enough time;I can't stay motivated;I am not regular in anything,Gym;Team sport,Full gym access,Gym,Early morning,60
+Female,15,5.6,140,Average,1 to 2 times a week,Beginner ,I want to be fit;I want to be flexible,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Afternoon,30
+Female,23,5.3,165,Unfit,1 to 2 times a week,Beginner ,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,24,5.3,130,Average,1 to 2 times a week,Beginner ,I want to be fit;I want to relieve stress,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,24,5.3,125,Good,Never,Beginner ,I want to be fit;I want to lose weight,I don't have enough time;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,21,5.3,130,Average,2 to 3 times a week,Beginner ,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I can't stay motivated;I'll become too tired,Walking or jogging;Gym;Yoga,Full gym access;Yoga mat,Gym,Early morning,60
+Female,32,5.6,145,Average,1 to 2 times a week,Beginner ,I want to lose weight,I can't stay motivated,Walking or jogging;I don't really exercise,No equipment,Outdoors,Evening,30
+Female,23,5.5,135,Good,2 to 3 times a week,Beginner ,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I can't stay motivated,Walking or jogging;Yoga,Yoga mat,Home,Early morning,30
+Female,24,5,120,Good,1 to 2 times a week,Beginner ,I want to be fit,I can't stay motivated,Walking or jogging;Zumba dance;Team sport,Full gym access,Gym,Evening,30
+Female,20,5.6,140,Average,1 to 2 times a week,Beginner ,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time,Yoga,Yoga mat,Home,Evening,30
+Female,17,5.1,115,Good,2 to 3 times a week,Beginner ,I want to be fit,I'll become too tired,Walking or jogging;Zumba dance,No equipment,Outdoors,Evening,30
+Female,18,5.2,150,Unfit,Never,Beginner ,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,23,5.8,140,Good,5 to 6 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to achieve a sporting goal,I am lazy,Team sport,Full gym access,Gym,Early morning,60
+Female,25,5.7,135,Good,1 to 2 times a week,Beginner ,I want to be fit;I want to be flexible,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,22,5.4,130,Average,2 to 3 times a week,Beginner ,I want to be fit;I want to lose weight;I want to be flexible,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,22,5.3,125,Average,Never,Beginner ,I want to relieve stress,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,29,5.2,120,Good,Never,Beginner ,I want to be flexible,I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,0
+Female,18,5.8,140,Good,1 to 2 times a week,Beginner ,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time;I'll become too tired;I have an injury,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Female,47,5.5,130,Good,2 to 3 times a week,Intermediate,I want to be fit,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,30
+Female,22,5.2,125,Good,Never,Beginner ,I want to be fit;I want to be flexible;To maintain healthy body and mind,I can't stay motivated;Laziness ,Walking or jogging;I don't really exercise,No equipment,Outdoors,Early morning,0
+Female,25,5.7,135,Good,1 to 2 times a week,Intermediate,I want to be flexible;I want to relieve stress,I can't stay motivated;I'll become too tired,Yoga,Yoga mat,Home,Early morning,30
+Female,40,6,170,Average,1 to 2 times a week,Beginner ,I want to lose weight;I want to be flexible,I'll become too tired;I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,44,5.5,140,Average,Never,Beginner ,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,38,5.4,135,Average,2 to 3 times a week,Beginner ,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time;I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,60
+Female,20,5.2,125,Average,5 to 6 times a week,Intermediate,I want to be flexible,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,0
+Female,22,4.9,95,Good,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging;Team sport,Full gym access,Gym,Evening,120
+Female,20,5.5,160,Unfit,1 to 2 times a week,Beginner ,I want to lose weight,I can't stay motivated,Gym,Full gym access,Gym,Early morning,60
+Female,36,5.4,142,Average,3 to 4 times a week,Intermediate,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,20,5.3,130,Average,Never,Beginner ,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I'm sorry ... I'm not really interested in exercising,I can't stay motivated;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,35,5.5,140,Average,2 to 3 times a week,Beginner ,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,47,5.3,118,Very good,1 to 2 times a week,Beginner ,I want to lose weight,I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,40,5.2,121,Average,3 to 4 times a week,Intermediate,I want to relieve stress,I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,24,5.1,170,Unfit,1 to 2 times a week,Beginner ,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time,Swimming,No equipment,Pool,Evening,0
+Female,24,5,120,Average,Everyday,Intermediate,I want to increase muscle mass and strength;I want to lose weight;I want to relieve stress,I don't have enough time;I'll become too tired,Gym,Full gym access,Gym,Evening,120
+Female,45,5.5,130,Good,Never,Beginner ,I want to lose weight;I want to relieve stress,I don't have enough time,I don't really exercise,No equipment,Home,Evening,0
+Female,21,5.4,132,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to be flexible,I can't stay motivated,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,30
+Female,48,5.6,130,Good,Everyday,Advanced,I want to be flexible,I exercise regularly with no barriers,Yoga,Yoga mat,Home,Early morning,30
+Female,15,5.2,125,Average,Everyday,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,30
+Female,20,5.2,125,Good,1 to 2 times a week,Beginner ,I want to be fit;I want to lose weight,I don't have enough time;I don't really enjoy exercising,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,30
+Female,17,5.2,125,Average,1 to 2 times a week,Beginner ,I want to lose weight,I'll become too tired,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Female,17,5.6,143,Average,Never,Beginner ,I'm sorry ... I'm not really interested in exercising,I can't stay motivated,I don't really exercise,No equipment,Outdoors,Evening,0
+Female,18,5.6,140,Average,1 to 2 times a week,Beginner,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,22,5.2,120,Average,1 to 2 times a week,Beginner,I want to be fit,I'll become too tired,Walking or jogging;Swimming,No equipment,Outdoors,Evening,30
+Female,21,5.7,135,Average,5 to 6 times a week,Intermediate,I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,17,5.4,135,Good,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,120
+Female,15,5.6,170,Unfit,Never,Beginner,I want to lose weight,I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,25,5.3,127,Good,Everyday,Advanced,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I exercise regularly with no barriers,Gym,Full gym access,Gym,Evening,120
+Female,18,5.3,104,Good,2 to 3 times a week,Intermediate,I want to increase muscle mass and strength,I don't have enough time,Zumba dance,No equipment,Home,Early morning,120
+Female,22,5.5,123,Good,2 to 3 times a week,Intermediate,I want to lose weight,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,16,5.8,125,Good,Everyday,Advanced,I dont wanna gain weight,I'm too lazy,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,24,5.6,140,Average,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Yoga,Yoga mat,Home,Early morning,30
+Female,34,5.8,178,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,17,5.4,168,Unfit,1 to 2 times a week,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,Walking or jogging;I don't really exercise,No equipment,Outdoors,Evening,0
+Female,44,4.9,94,Average,1 to 2 times a week,Beginner,I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,30
+Female,15,5.5,140,Average,Never,Beginner,I want to be fit,I can't stay motivated,I don't really exercise,No equipment,Home,Evening,0
+Female,23,5.6,135,Good,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,15,5.5,120,Good,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,40,5.4,135,Good,Never,Beginner,I want to lose weight;I want to relieve stress,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Evening,0
+Female,42,5.5,130,Good,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible,I don't have enough time;I can't stay motivated,Gym,Full gym access,Gym,Evening,30
+Female,47,5.9,150,Average,Never,Beginner,I want to increase muscle mass and strength,Laziness,I don't really exercise,No equipment,Home,Evening,0
+Female,18,5.2,125,Good,Never,Beginner,I want to be flexible,Lazy,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,22,5.8,154,Average,1 to 2 times a week,Beginner,I want to lose weight;I want to be flexible,I can't stay motivated,Gym,Full gym access,Gym,Evening,60
+Female,34,5.2,114,Very good,2 to 3 times a week,Intermediate,I want to be flexible,I can't stay motivated,Swimming;Yoga,Yoga mat,Home,Evening,30
+Female,18,5.8,135,Very good,3 to 4 times a week,Intermediate,I want to achieve a sporting goal,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Afternoon,30
+Female,21,5.5,125,Average,1 to 2 times a week,Beginner,I want to increase muscle mass and strength,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,44,5.1,150,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Female,18,5.3,125,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to be flexible,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,30
+Female,22,5.1,117,Average,Never,Beginner,I want to be fit;I want to be flexible,I don't have enough time,I don't really exercise,No equipment,Home,Evening,0
+Female,16,5.4,120,Average,Never,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time,Walking or jogging;I don't really exercise,No equipment,Outdoors,Early morning,0
+Female,17,5.6,160,Unfit,Never,Beginner,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,37,5.1,100,Very good,2 to 3 times a week,Intermediate,I want to be fit,I don't have enough time;I'll become too tired,Gym,Full gym access,Gym,Evening,30
+Female,17,5.7,145,Good,1 to 2 times a week,Beginner,I want to lose weight,I don't really enjoy exercising,Zumba dance,No equipment,Home,Evening,60
+Female,42,5.8,155,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Yoga,Yoga mat,Home,Early morning,60
+Female,17,5.2,160,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,Laziness ,I don't really exercise,No equipment,Home,Early morning,0
+Female,21,5.4,120,Good,2 to 3 times a week,Intermediate,I want to lose weight,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,15,5.1,115,Average,Never,Intermediate,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,32,5.4,125,Very good,5 to 6 times a week,Advanced,I want to be fit,I'll become too tired,Team sport,Full gym access,Gym,Evening,60
+Female,20,5.2,130,Average,Everyday,Beginner,I want to lose weight,I don't have enough time;I can't stay motivated,Gym,Full gym access,Gym,Early morning,60
+Female,17,4.8,105,Good,1 to 2 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time;I have an injury;No gym near me,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,23,5.2,120,Good,2 to 3 times a week,Beginner,I want to be flexible,I don't have enough time;I can't stay motivated;I'll become too tired,Gym,Full gym access,Gym,Evening,60
+Female,17,5.3,115,Good,1 to 2 times a week,Beginner,I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I'll become too tired,Walking or jogging;Team sport,Full gym access,Gym,Early morning,30
+Female,48,4.7,90,Average,Never,Beginner,I want to lose weight,I don't have enough time;I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Evening,0
+Female,17,5.4,125,Good,5 to 6 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time,Gym;Lifting weights,Full gym access,Gym,Afternoon,60
+Female,29,5.2,120,Very good,1 to 2 times a week,Intermediate,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,24,5.7,145,Average,3 to 4 times a week,Intermediate,I want to lose weight;I want to be flexible;I want to relieve stress,I'll become too tired,Yoga,Yoga mat,Home,Early morning,120
+Female,47,5.6,180,Unfit,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,21,5.3,130,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging;Gym;Zumba dance,Full gym access,Gym,Early morning,30
+Female,25,5.5,130,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible,I don't have enough time;I can't stay motivated,Gym;Yoga,Full gym access; Yoga mat,Gym,Early morning,30
+Female,17,5.8,135,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I can't stay motivated,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,60
+Female,38,5.8,150,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I can't stay motivated,I don't really exercise,No equipment,Outdoors,Early morning,0
+Female,33,5.5,140,Average,Never,Beginner,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Outdoors,Evening,0
+Female,35,5.6,135,Good,1 to 2 times a week,Beginner ,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,17,5.9,170,Unfit,Never,Beginner,I want to lose weight;I want to be flexible,I can't stay motivated,I don't really exercise,No equipment,Outdoors,Early morning,0
+Female,20,5.6,130,Good,Never,Beginner,I want to relieve stress,I'll become too tired,Zumba dance,No equipment,Home,Evening,0
+Female,23,5.3,120,Good,1 to 2 times a week,Beginner,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,24,5.3,120,Good,2 to 3 times a week,Advanced,I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Gym;Zumba dance,Full gym access,Gym,Early morning,60
+Female,15,5.6,145,Average,Never,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I can't stay motivated,I don't really exercise,No equipment,Home,Evening,0
+Female,16,5.4,135,Average,Everyday,Intermediate,I want to be fit;I want to lose weight,I can't stay motivated,Gym,Full gym access,Gym,Early morning,30
+Female,21,5.5,136,Average,1 to 2 times a week,Beginner,I want to relieve stress,I can't stay motivated;I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,20,5.7,130,Good,Everyday,Advanced,I want to lose weight,I exercise regularly with no barriers,Gym,Full gym access,Gym,Evening,60
+Female,16,5,110,Good,Everyday,Intermediate,I want to achieve a sporting goal,I don't have enough time;I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,21,5.3,120,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible,I don't have enough time,Gym,Full gym access,Gym,Evening,120
+Female,23,5.9,125,Perfect,Everyday,Advanced,I want to be fit,I don't have enough time,Gym,Full gym access,Gym,Evening,60
+Female,23,5.1,118,Average,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,25,5.4,125,Good,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,18,5.3,120,Good,3 to 4 times a week,Advanced,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Gym;Yoga,Full gym access; Yoga mat,Gym,Early morning,60
+Female,17,5.3,115,Good,1 to 2 times a week,Beginner,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,23,5.1,120,Good,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,25,5.4,125,Good,2 to 3 times a week,Beginner,I want to be fit;I want to relieve stress,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,15,5.5,120,Good,Never,Beginner,I want to be fit;I want to be flexible,I don't have enough time,I don't really exercise,No equipment,Home,Evening,0
+Female,23,5.2,115,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to be flexible,I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,15,5.1,115,Average,Never,Beginner,I want to be flexible;I want to relieve stress,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,60
+Female,20,5.5,130,Good,Everyday,Advanced,I want to lose weight,I exercise regularly with no barriers,Yoga,Yoga mat,Home,Early morning,30
+Female,17,5.3,125,Average,Never,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,0
+Female,18,5.3,130,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,24,4.7,92,Good,Everyday,Advanced,I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,42,4.9,96,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Gym;Yoga;Lifting weights,Full gym access; Yoga mat,Gym,Evening,60
+Female,22,5.1,125,Average,1 to 2 times a week,Beginner,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,17,5.4,110,Very good,2 to 3 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Gym;Yoga,Full gym access; Yoga mat,Gym,Early morning,60
+Female,23,5.3,130,Average,Never,Beginner,I want to be fit;I want to be flexible,I can't stay motivated,Zumba dance,No equipment,Home,Early morning,0
+Female,20,5.6,135,Average,1 to 2 times a week,Beginner,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,37,5.6,140,Average,1 to 2 times a week,Beginner,I want to be flexible;I want to relieve stress,I don't have enough time,Gym;Yoga,Full gym access; Yoga mat,Gym,Evening,60
+Female,16,5.2,120,Good,3 to 4 times a week,Intermediate,I want to lose weight,I'll become too tired,Walking or jogging;Gym;Yoga;Zumba dance,Full gym access; Yoga mat,Gym,Early morning,60
+Female,25,5.1,125,Good,2 to 3 times a week,Beginner,I want to be fit;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,23,5.5,120,Very good,Never,Beginner,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,33,5.5,115,Good,5 to 6 times a week,Advanced,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,18,5.4,110,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight,I'll become too tired,Gym,Full gym access,Gym,Evening,30
+Female,16,5.4,125,Average,5 to 6 times a week,Advanced,I want to be flexible;I want to achieve a sporting goal,I can't stay motivated,Walking or jogging;Gym;Team sport,Full gym access,Gym,Early morning,120
+Female,15,5.3,105,Perfect,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I exercise regularly with no barriers,Walking or jogging;Team sport,Full gym access,Outdoors,Evening,30
+Female,20,5.5,120,Average,1 to 2 times a week,Beginner,I want to lose weight,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,15,5.2,110,Average,Never,Beginner,I want to relieve stress,I don't have enough time;I'll become too tired,Walking or jogging;I don't really exercise,No equipment,Outdoors,Early morning,0
+Female,22,5.4,130,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I'll become too tired,I don't really exercise,No equipment,Home,Evening,0
+Female,23,5.3,120,Average,3 to 4 times a week,Intermediate,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,16,5,125,Good,Everyday,Intermediate,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,18,5.4,110,Average,3 to 4 times a week,Advanced,I want to be fit,I don't have enough time,Gym,Full gym access,Gym,Evening,60
+Female,22,5.3,120,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time,Walking or jogging;Gym;Swimming,Full gym access,Gym,Evening,30
+Female,48,5.4,137,Average,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I'll become too tired,Walking or jogging;Team sport,Full gym access,Gym,Evening,30
+Female,17,5.7,130,Good,Never,Beginner,I want to be fit;I want to lose weight;I want to achieve a sporting goal,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,15,5.6,110,Very good,Never,Beginner,I want to be fit,I can't stay motivated;I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,25,5.2,130,Average,Never,Beginner,I want to be fit,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Female,17,5.5,120,Good,5 to 6 times a week,Intermediate,I want to be fit,I don't have enough time,Yoga,Yoga mat,Home,Early morning,30
+Female,35,5.2,135,Average,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,36,5.4,130,Good,1 to 2 times a week,Beginner,I want to lose weight;I want to relieve stress,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,30
+Female,20,5.6,140,Average,Never,Beginner,I want to be flexible,I don't have enough time,I don't really exercise,No equipment,Home,Evening,0
+Female,39,5.3,145,Average,Everyday,Advanced,I want to relieve stress,I'll become too tired,Yoga,Yoga mat,Home,Early morning,60
+Female,35,5.5,150,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,20,5.2,115,Very good,Everyday,Intermediate,I want to be fit;I want to lose weight;I want to be flexible,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,45,5.3,130,Average,Never,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,16,5.2,110,Very good,5 to 6 times a week,Advanced,I want to lose weight;I want to be flexible;I want to relieve stress,I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,28,5.6,180,Unfit,Never,Beginner,I want to lose weight,I don't have enough time,Yoga,Yoga mat,Home,Early morning,0
+Female,34,5.6,150,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,120
+Female,30,5.6,150,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,37,5.5,135,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible,I don't have enough time;I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,30
+Female,18,5.4,120,Good,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I'll become too tired,I don't really exercise,No equipment,Home,Early morning,0
+Female,16,5.8,139,Very good,Never,Beginner,I want to lose weight;I want to relieve stress,I don't have enough time;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,43,5.9,145,Good,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,18,5.9,145,Good,1 to 2 times a week,Beginner,I want to be flexible,I don't have enough time,Yoga,Yoga mat,Home,Afternoon,60
+Female,23,5.4,135,Average,Never,Beginner,I want to lose weight;I want to relieve stress,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Female,17,5.5,110,Very good,1 to 2 times a week,Intermediate,I want to be fit,I don't have enough time,Yoga,Yoga mat,Home,Evening,30
+Female,16,5.3,125,Average,1 to 2 times a week,Beginner,I want to relieve stress,I can't stay motivated,Gym,Full gym access,Gym,Evening,60
+Female,24,5.4,100,Perfect,Never,Intermediate,I want to be fit,I always busy with my regular works,I don't really exercise,No equipment,Home,Early morning,0
+Female,44,5.4,135,Good,5 to 6 times a week,Advanced,I want to lose weight;I want to be flexible,I exercise regularly with no barriers,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,60
+Female,49,5.5,120,Very good,1 to 2 times a week,Intermediate,I want to be fit;I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,25,5.8,125,Good,1 to 2 times a week,Beginner,I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,18,5.9,134,Good,3 to 4 times a week,Intermediate,I want to be flexible,I'll become too tired,Walking or jogging;Zumba dance,No equipment,Outdoors,Evening,30
+Female,16,5.7,135,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time,Walking or jogging;Zumba dance,No equipment,Outdoors,Early morning,60
+Female,15,5.7,133,Good,1 to 2 times a week,Advanced,I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Team sport,Full gym access,Outdoors,Early morning,120
+Female,18,5.6,125,Good,5 to 6 times a week,Advanced,I want to be fit;I want to lose weight;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Team sport,Full gym access,Outdoors,Early morning,30
+Female,15,5.2,175,Unfit,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I can't stay motivated,Zumba dance,No equipment,Home,Evening,60
+Female,23,5.3,115,Very good,5 to 6 times a week,Advanced,I want to relieve stress,I don't have enough time,Lifting weights,Full gym access,Gym,Early morning,120
+Female,24,5.8,150,Average,1 to 2 times a week,Beginner,I want to lose weight,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,25,5.5,140,Average,Everyday,Beginner,I'm sorry ... I'm not really interested in exercising,I'll become too tired;I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,22,5.8,130,Good,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time,Walking or jogging;Gym;Team sport,Full gym access,Gym,Early morning,120
+Female,24,5.3,120,Good,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,24,6,155,Good,3 to 4 times a week,Advanced,I want to lose weight;I want to be flexible,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,17,5.2,170,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Walking or jogging;I don't really exercise,No equipment,Outdoors,Evening,0
+Female,15,5.3,120,Good,Everyday,Intermediate,I want to be fit;I want to lose weight,I have an injury,Gym,Full gym access,Gym,Evening,60
+Female,20,5.1,125,Good,1 to 2 times a week,Intermediate,I want to be fit;I want to relieve stress,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Female,23,5.7,133,Good,1 to 2 times a week,Intermediate,I want to be fit;I want to relieve stress,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Female,25,5.9,130,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I can't stay motivated,Walking or jogging;Lifting weights,Full gym access,Outdoors,Early morning,60
+Female,24,5.6,119,Very good,Everyday,Advanced,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Gym,Full gym access,Gym,Evening,120
+Female,21,6,170,Average,5 to 6 times a week,Intermediate,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,18,5.3,129,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,30
+Female,20,5.3,120,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I'll become too tired;I don't really enjoy exercising,Walking or jogging;Yoga;Team sport,Full gym access,Outdoors,Evening,60
+Female,25,5.4,130,Average,2 to 3 times a week,Intermediate,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,36,5.4,125,Unfit,3 to 4 times a week,Intermediate,I want to relieve stress,I'll become too tired,Yoga,Yoga mat,Home,Early morning,30
+Female,25,5.4,138,Good,Never,Beginner,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,0
+Female,20,5.3,130,Average,Never,Beginner,I want to lose weight,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,16,4.9,98,Good,1 to 2 times a week,Beginner,I want to be fit,I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,18,5.2,155,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Female,21,4.9,99,Good,1 to 2 times a week,Beginner,I want to lose weight;I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,29,5.4,135,Average,1 to 2 times a week,Beginner,I want to lose weight,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,16,5.6,145,Average,3 to 4 times a week,Intermediate,I want to lose weight,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Female,24,5.5,130,Good,2 to 3 times a week,Intermediate,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,22,5.4,110,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Team sport,Full gym access,Outdoors,Evening,60
+Female,29,5.4,165,Unfit,Never,Beginner,I want to be fit,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Female,24,5.4,145,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal,I can't stay motivated;Laziness mostly ,Walking or jogging;Swimming;Yoga,Yoga mat,Outdoors,Early morning,120
+Female,20,5.4,118,Good,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,25,5.1,130,Good,Never,Beginner,I want to be fit,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,37,5.5,115,Good,Never,Beginner,Not doing exercise,I don't have enough time,I don't really exercise,No equipment,Home,Evening,0
+Female,24,5.3,150,Good,Everyday,Intermediate,I want to relieve stress,I don't have enough time,Team sport,Full gym access,Outdoors,Evening,60
+Female,22,5,110,Good,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,25,5.5,120,Good,1 to 2 times a week,Beginner,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,22,5.2,120,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible,I don't have enough time,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,30
+Female,49,5.8,155,Average,1 to 2 times a week,Beginner,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,24,5.5,140,Unfit,Never,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Gym;Yoga;Zumba dance,Full gym access; Yoga mat,Gym,Evening,30
+Female,17,5.5,130,Good,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,30
+Female,23,5.1,130,Average,2 to 3 times a week,Beginner,I want to be fit,I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,23,5.2,155,Unfit,Never,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I can't stay motivated;I'll become too tired,I don't really exercise,No equipment,Home,Early morning,0
+Female,20,5.6,175,Unfit,Never,Beginner,I want to be fit;I want to lose weight,I don't have enough time;I'll become too tired,Walking or jogging;Gym;Zumba dance,Full gym access,Gym,Early morning,0
+Female,23,5,100,Very good,1 to 2 times a week,Beginner,I want to be fit,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,18,5.3,130,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,33,5.1,115,Good,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,60
+Female,25,5.5,110,Good,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,23,4.9,145,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,15,5.6,130,Good,Never,Beginner,I want to increase muscle mass and strength,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,0
+Female,25,4.6,85,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,0
+Female,17,4.7,92,Average,Never,Beginner,I want to be fit;I want to be flexible,I don't have enough time;I can't stay motivated,Zumba dance,No equipment,Home,Evening,0
+Female,27,5,120,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible,I can't stay motivated;I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,30
+Female,25,5,120,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging;Zumba dance,No equipment,Outdoors,Evening,60
+Female,37,5.5,130,Good,1 to 2 times a week,Intermediate,I want to be fit,I don't have enough time,Gym;Swimming,Full gym access,Gym,Evening,60
+Female,17,5.5,110,Good,1 to 2 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Female,15,4.8,88,Average,1 to 2 times a week,Beginner,I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,15,5.4,115,Very good,Everyday,Advanced,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time;I'll become too tired,Walking or jogging;Gym;Yoga,Full gym access; Yoga mat,Gym,Early morning,30
+Female,24,5.5,129,Good,Everyday,Advanced,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I can't stay motivated,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Female,17,5.2,135,Good,1 to 2 times a week,Beginner,I want to lose weight,I don't have enough time,Gym,Full gym access,Gym,Evening,60
+Female,29,5.3,130,Good,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,48,5.6,150,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time,Walking or jogging;Gym;Yoga;Zumba dance,Full gym access; Yoga mat,Gym,Early morning,60
+Female,41,5.4,135,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,15,5.4,110,Good,5 to 6 times a week,Advanced,I want to be fit;I want to be flexible,Travel time I skip,Gym,Full gym access,Gym,Early morning,60
+Female,43,5.2,115,Very good,Everyday,Advanced,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Yoga,Yoga mat,Home,Early morning,60
+Female,44,5.3,130,Average,1 to 2 times a week,Beginner,I want to relieve stress,I'll become too tired;I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,45,5.4,130,Average,1 to 2 times a week,Beginner,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,48,5.8,145,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to achieve a sporting goal,I don't have enough time;I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,60
+Female,18,5.4,110,Perfect,3 to 4 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,46,5.1,100,Very good,2 to 3 times a week,Intermediate,I want to be flexible,I'll become too tired,Zumba dance,No equipment,Home,Evening,60
+Female,20,5.3,120,Good,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,43,5.2,115,Very good,3 to 4 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,30
+Female,22,5.6,170,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Evening,0
+Female,38,5.2,125,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,23,5.5,140,Average,Never,Beginner,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,18,5.6,140,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,33,5.4,115,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to achieve a sporting goal,I don't have enough time;I have an injury,Walking or jogging;Gym;Swimming;Lifting weights,Full gym access,Gym,Early morning,120
+Female,29,5.5,135,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,22,5.4,135,Average,1 to 2 times a week,Beginner,I want to lose weight,I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,120
+Female,28,5.8,145,Good,1 to 2 times a week,Advanced,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I can't stay motivated;I exercise regularly with no barriers,Walking or jogging;Yoga;Lifting weights;Team sport,Full gym access; Yoga mat,Outdoors,Early morning,60
+Female,44,4.8,85,Good,3 to 4 times a week,Advanced,I want to increase muscle mass and strength;I want to lose weight;I want to be flexible,I exercise regularly with no barriers,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,30
+Female,33,5.1,120,Average,1 to 2 times a week,Beginner,I want to be fit,I'll become too tired,Gym,Full gym access,Gym,Early morning,30
+Female,23,5.6,145,Average,Everyday,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I'll become too tired;I have an injury,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,30
+Female,46,5.3,130,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging;Gym,Full gym access,Gym,Evening,30
+Female,24,5.2,122,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal,I can't stay motivated;Laziness mostly ,Walking or jogging;Swimming;Yoga,Full gym access;Yoga mat,Outdoors,Early morning,120
+Female,47,5.3,120,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time,Swimming;Zumba dance,Full gym access,Home,Evening,120
+Female,17,5.3,130,Average,Never,Beginner,I want to be fit,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,30
+Female,15,5.7,150,Average,1 to 2 times a week,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,30
+Female,45,5.6,145,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I can't stay motivated,Zumba dance;Team sport,Full gym access,Gym,Evening,60
+Female,18,5,110,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated,Walking or jogging;Gym;Zumba dance,Full gym access,Gym,Evening,30
+Female,15,5.2,105,Perfect,Everyday,Advanced,I want to relieve stress,I can't stay motivated,Walking or jogging;Swimming;Yoga;Zumba dance,Full gym access;Yoga mat,Outdoors,Evening,180
+Female,17,5.6,120,Good,3 to 4 times a week,Advanced,I want to be fit;I want to lose weight;I want to be flexible,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,49,5.3,132,Good,5 to 6 times a week,Intermediate,I want to relieve stress,I don't have enough time,Team sport,Full gym access,Outdoors,Evening,60
+Female,15,5.4,130,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,20,5.2,128,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,44,5.5,138,Good,2 to 3 times a week,Beginner,I want to be flexible,I don't have enough time,Yoga;Zumba dance,Yoga mat,Home,Early morning,30
+Female,22,5.1,125,Good,3 to 4 times a week,Intermediate,I want to lose weight,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,30
+Female,48,5.4,135,Good,Everyday,Intermediate,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I have an injury,Walking or jogging;Yoga;Zumba dance,Yoga mat,Home,Early morning,30
+Female,42,5.4,135,Good,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,60
+Female,46,5.4,135,Good,Never,Beginner,I want to be fit;I want to be flexible,I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,15,5.2,125,Average,Never,Beginner,I want to lose weight,I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,23,5.3,128,Average,Never,Beginner,I want to be fit,I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,25,5.3,132,Good,1 to 2 times a week,Beginner,I want to relieve stress,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,18,5.8,166,Unfit,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Female,29,5.2,117,Very good,Everyday,Intermediate,I want to relieve stress,I don't have enough time,Zumba dance,No equipment,Home,Evening,60
+Female,21,5.3,160,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I can't stay motivated;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Female,24,5.5,135,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight,I'll become too tired;I have an injury;Laziness,Walking or jogging;Zumba dance,No equipment,Home,Evening,30
+Female,30,5.2,127,Good,5 to 6 times a week,Advanced,I want to lose weight;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Gym,Full gym access,Gym,Early morning,60
+Female,25,5.2,165,Unfit,Never,Beginner,I want to be fit;I want to lose weight,I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Female,26,5.4,135,Good,2 to 3 times a week,Intermediate,I want to lose weight,I can't stay motivated,Gym,Full gym access,Gym,Evening,60
+Female,25,5.6,140,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I'll become too tired,Walking or jogging;Zumba dance,No equipment,Home,Evening,60
+Female,28,5.4,117,Very good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time;I'll become too tired,Walking or jogging;Gym,Full gym access,Gym,Evening,30
+Female,46,5.7,148,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Zumba dance,No equipment,Outdoors,Evening,60
+Female,29,5.5,117,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Gym,Full gym access,Gym,Afternoon,120
+Female,26,5.4,115,Perfect,1 to 2 times a week,Beginner,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,44,5.5,115,Perfect,1 to 2 times a week,Beginner,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,42,5.6,115,Perfect,1 to 2 times a week,Beginner,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,47,5.3,115,Perfect,1 to 2 times a week,Beginner,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Female,40,5.2,120,Good,3 to 4 times a week,Advanced,I want to be fit;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Gym;Swimming,Full gym access,Gym,Early morning,120
+Female,42,5.6,140,Average,1 to 2 times a week,Intermediate,I want to lose weight;I want to be flexible,I can't stay motivated,Walking or jogging;Yoga,Yoga mat,Home,Early morning,30
+Female,24,5.6,140,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Male,43,6,175,Average,1 to 2 times a week,Beginner,I want to be flexible,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,20,6,210,Unfit,3 to 4 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Gym;Team sport,Full gym access,Gym,Evening,60
+Male,15,6.3,175,Very good,Everyday,Advanced,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time;I exercise regularly with no barriers,Gym,Full gym access,Gym,Early morning,60
+Male,17,5.9,150,Very good,3 to 4 times a week,Advanced,I want to be fit,I don't have enough time,Walking or jogging;Team sport,Full gym access,Outdoors,Early morning,60
+Male,21,5.8,220,Unfit,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,120
+Male,18,6.1,230,Unfit,Never,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I can't stay motivated,I don't really exercise,No equipment,Home,Evening,0
+Male,23,5.7,165,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal;Doing exercises prevents many diseases.So yeah saves a lot of money .,I don't have enough time;I'll become too tired;I have an injury,Walking or jogging,No equipment,Outdoors,Evening,30
+Male,18,6,210,Unfit,Never,Beginner,I want to relieve stress;I'm sorry ... I'm not really interested in exercising,I don't have enough time;I'll become too tired;I don't really enjoy exercising,Walking or jogging;I don't really exercise,No equipment,Outdoors,Evening,0
+Male,16,6.3,190,Good,1 to 2 times a week,Intermediate,I want to increase muscle mass and strength,I'll become too tired,Walking or jogging;Team sport,Full gym access,Gym,Early morning,60
+Male,19,5.5,215,Unfit,Never,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated;I'll become too tired;I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,17,5.7,155,Good,Everyday,Intermediate,I want to increase muscle mass and strength;I want to lose weight;I want to be flexible,I'll become too tired;I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,24,5.9,175,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time;I'll become too tired,Walking or jogging;Gym,Full gym access,Gym,Early morning,30
+Male,21,6.1,170,Good,Never,Beginner,I want to be fit,I don't have enough time;I'll become too tired,Walking or jogging;I don't really exercise,No equipment,Outdoors,Evening,0
+Male,45,6.1,230,Unfit,Never,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Male,18,5.6,160,Average,1 to 2 times a week,Beginner,I want to achieve a sporting goal,I can't stay motivated,Walking or jogging;Team sport,Full gym access,Outdoors,Evening,30
+Male,23,5.9,175,Average,3 to 4 times a week,Beginner,I want to relieve stress;I want to achieve a sporting goal,I don't really enjoy exercising,Team sport,Full gym access,Gym,Evening,120
+Male,25,6.4,190,Good,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I can't stay motivated,Walking or jogging;I don't really exercise,No equipment,Outdoors,Early morning,30
+Male,17,6.3,185,Very good,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I'll become too tired,Walking or jogging;Gym;Lifting weights;Team sport,Full gym access,Gym,Evening,120
+Male,16,5.8,150,Very good,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength,I don't have enough time,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Evening,60
+Male,18,5.3,140,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Gym;Yoga;Lifting weights,Full gym access;Yoga mat,Gym,Evening,120
+Male,24,5.9,210,Unfit,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength,I don't have enough time;I can't stay motivated,Yoga,Yoga mat,Home,Early morning,30
+Male,18,5.6,130,Perfect,Everyday,Advanced,I want to be fit;Exercising gives you discipline and focus and removed bad thoughts from your mind.,I exercise regularly with no barriers,Gym;Swimming,Full gym access,Gym,Early morning,60
+Male,20,5.9,170,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible,I don't have enough time;I can't stay motivated,Gym,Full gym access,Gym,Early morning,60
+Male,20,6.3,180,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I exercise regularly with no barriers,Gym;Lifting weights;Team sport,Full gym access,Gym,Early morning,60
+Male,20,6.5,190,Very good,Everyday,Intermediate,I want to be fit,I don't have enough time,Gym,Full gym access,Gym,Evening,120
+Male,23,6,160,Perfect,2 to 3 times a week,Advanced,I want to be fit,I don't have enough time,Walking or jogging;Swimming;Lifting weights,Full gym access,Gym,Early morning,30
+Male,18,5.9,175,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Early morning,0
+Male,22,6.3,200,Average,3 to 4 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Male,45,6,185,Good,3 to 4 times a week,Advanced,I want to be fit;I want to lose weight;Control Diabetes ,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Evening,30
+Male,20,6.2,180,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I'll become too tired,Gym;Swimming;Lifting weights,Full gym access,Gym,Early morning,60
+Male,15,5.9,155,Good,3 to 4 times a week,Intermediate,I want to be fit,I don't have enough time,Walking or jogging;Team sport,Full gym access,Gym,Evening,120
+Male,24,5.6,220,Unfit,Never,Beginner,I want to increase muscle mass and strength;I'm sorry ... I'm not really interested in exercising,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,Team sport;I don't really exercise,Full gym access,Gym,Evening,0
+Male,27,5.8,190,Unfit,Never,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Male,20,5.9,170,Average,Everyday,Intermediate,I want to be fit;I want to lose weight;I want to relieve stress,I have an injury,Team sport,Full gym access,Gym,Early morning,120
+Male,21,5.7,180,Unfit,Never,Beginner,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,21,5.6,155,Good,Everyday,Advanced,I want to lose weight,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Early morning,30
+Male,42,6,185,Good,2 to 3 times a week,Intermediate,I want to be flexible;I want to relieve stress,I don't have enough time,Team sport,Full gym access,Gym,Evening,60
+Male,24,5.7,170,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength,I don't have enough time;I can't stay motivated,Walking or jogging;Lifting weights,Full gym access,Gym,Evening,30
+Male,49,5.4,185,Unfit,1 to 2 times a week,Beginner,I want to lose weight,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,Walking or jogging;Gym,Full gym access,Gym,Early morning,30
+Male,27,5.4,150,Average,1 to 2 times a week,Beginner,I want to increase muscle mass and strength;I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging;Lifting weights,Full gym access,Gym,Early morning,30
+Male,46,6.1,180,Very good,3 to 4 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Evening,120
+Male,43,5.5,155,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Male,43,6.3,190,Very good,3 to 4 times a week,Advanced,I want to be fit;I want to be flexible;I want to achieve a sporting goal,I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Early morning,60
+Male,41,5.7,170,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Male,40,6.4,190,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to be flexible,I'll become too tired,Walking or jogging;Yoga;Team sport,Full gym access;Yoga mat,Gym,Early morning,30
+Male,20,5.6,165,Average,2 to 3 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Male,43,5.6,135,Very good,5 to 6 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,30,6.3,190,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,Gym;Lifting weights,Full gym access,Gym,Early morning,60
+Male,18,6,175,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated,Walking or jogging;Gym;Swimming,Full gym access,Gym,Early morning,60
+Male,24,5.7,175,Average,5 to 6 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I don't have enough time,Gym,Full gym access,Gym,Evening,60
+Male,23,6.2,180,Very good,2 to 3 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength,I don't have enough time;I can't stay motivated,Walking or jogging;Gym;Team sport,Full gym access,Gym,Evening,60
+Male,17,5.7,150,Very good,Everyday,Advanced,I want to achieve a sporting goal,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Early morning,120
+Male,21,5.2,135,Good,3 to 4 times a week,Intermediate,I want to be fit,I'll become too tired,Walking or jogging,No equipment,Outdoors,Evening,60
+Male,42,5.7,155,Good,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,15,5.5,145,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to be flexible,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,45,5.7,170,Average,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,21,5.4,150,Average,1 to 2 times a week,Beginner,I want to be fit;I want to think clearly and I want to play cricket with my grandkids,I can't stay motivated;I'll become too tired,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Male,15,6,215,Unfit,Never,Beginner,I want to increase muscle mass and strength,I don't really enjoy exercising,Gym,Full gym access,Gym,Evening,30
+Male,18,6.5,200,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,Team sport;I don't really exercise,Full gym access,Gym,Evening,0
+Male,18,6.3,180,Perfect,Everyday,Advanced,I want to be fit;I want to achieve a sporting goal,I exercise regularly with no barriers,Gym;Swimming;Lifting weights,Full gym access,Gym,Evening,120
+Male,17,6,180,Good,1 to 2 times a week,Intermediate,I want to be fit,I don't have enough time,Team sport,Full gym access,Gym,Afternoon,120
+Male,25,5.9,175,Average,Never,Beginner,I want to be fit;I want to relieve stress,I don't have enough time;I can't stay motivated;I have an injury,I don't really exercise,No equipment,Home,Early morning,0
+Male,24,5.9,145,Perfect,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging;Lifting weights,Full gym access,Gym,Evening,30
+Male,25,5.7,135,Perfect,5 to 6 times a week,Advanced,I want to increase muscle mass and strength;I want to achieve a sporting goal,I exercise regularly with no barriers,Gym;Team sport,Full gym access,Gym,Early morning,120
+Male,24,5.9,175,Average,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,18,6.2,185,Good,Everyday,Intermediate,I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Male,24,5.8,145,Perfect,Everyday,Advanced,I want to be fit;I want to be flexible;I want to achieve a sporting goal,I exercise regularly with no barriers,Swimming;Team sport,Full gym access,Gym,Evening,180
+Male,18,5.7,170,Good,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I exercise regularly with no barriers,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,30
+Male,38,6.2,190,Average,1 to 2 times a week,Beginner,I want to be flexible,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,30
+Male,46,5.6,175,Unfit,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible,I don't have enough time;I'll become too tired,Walking or jogging;Team sport,Full gym access,Gym,Early morning,30
+Male,23,6.3,185,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress,I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,22,6,165,Perfect,5 to 6 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Yoga;Team sport,Full gym access;Yoga mat,Gym,Early morning,120
+Male,48,6.1,190,Very good,5 to 6 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Male,32,5.8,175,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I can't stay motivated,Walking or jogging;Gym;Swimming,Full gym access,Gym,Early morning,30
+Male,28,6.1,185,Average,2 to 3 times a week,Beginner,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,60
+Male,46,5.5,170,Average,1 to 2 times a week,Beginner,I want to be fit;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,43,6.2,185,Good,1 to 2 times a week,Intermediate,I want to be flexible,I'll become too tired,Walking or jogging;Swimming,Full gym access,Gym,Evening,60
+Male,48,6.1,170,Perfect,2 to 3 times a week,Advanced,I want to lose weight,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,16,5.5,150,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I don't have enough time,Walking or jogging;Gym;Yoga;Lifting weights,Full gym access;Yoga mat,Gym,Evening,30
+Male,22,5.6,170,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated;I'll become too tired;I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Early morning,30
+Male,24,6,180,Very good,Everyday,Advanced,I want to be fit;I want to be flexible;I want to achieve a sporting goal,I don't have enough time;I exercise regularly with no barriers,Walking or jogging;Team sport,Full gym access,Gym,Evening,120
+Male,17,5.8,170,Good,3 to 4 times a week,Intermediate,I want to be fit,I don't have enough time,Gym;Lifting weights,Full gym access,Gym,Evening,60
+Male,20,5.9,150,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Swimming;Team sport,Full gym access,Gym,Early morning,120
+Male,21,5.8,170,Average,2 to 3 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,24,5.9,180,Average,1 to 2 times a week,Beginner,I want to be fit;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time,Gym;Swimming;Team sport,Full gym access,Gym,Evening,60
+Male,22,5.8,170,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to be flexible,I'll become too tired,Walking or jogging;Yoga;Zumba dance,Yoga mat,Outdoors,Evening,30
+Male,18,6,170,Good,5 to 6 times a week,Advanced,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,60
+Male,40,6,180,Very good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time;I have an injury,Gym;Lifting weights;Team sport,Full gym access,Gym,Evening,60
+Male,22,6.2,180,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I have an injury,Walking or jogging;Team sport,Full gym access,Gym,Early morning,60
+Male,15,6.2,172,Perfect,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,60
+Male,23,6.2,170,Perfect,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights;Team sport,Full gym access,Gym,Evening,60
+Male,22,6.1,170,Perfect,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to be flexible,I exercise regularly with no barriers,Gym,Full gym access,Gym,Early morning,60
+Male,43,6.2,170,Perfect,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging;Gym;Swimming;Yoga;Zumba dance;Lifting weights;Team sport,Full gym access,Gym,Early morning,180
+Male,47,6.2,210,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I can't stay motivated;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Male,49,5.3,145,Good,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Evening,60
+Male,16,6,170,Average,Never,Beginner,I want to be fit,I can't stay motivated,Gym,Full gym access,Gym,Early morning,120
+Male,25,6.1,175,Good,2 to 3 times a week,Intermediate,I want to relieve stress;I want to achieve a sporting goal,I have an injury,Team sport,Full gym access,Gym,Early morning,120
+Male,22,6.3,185,Good,1 to 2 times a week,Beginner,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,25,5.8,175,Average,1 to 2 times a week,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,Team sport,Full gym access,Gym,Evening,120
+Male,36,6,200,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated,Walking or jogging;Swimming;Lifting weights,Full gym access,Gym,Early morning,60
+Male,22,5.7,195,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Male,17,5.8,165,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to relieve stress,I don't have enough time,Walking or jogging;Gym;Swimming;Lifting weights,Full gym access,Gym,Early morning,60
+Male,45,6.2,190,Average,Never,Beginner,I want to be flexible,I have an injury;Allergies,Yoga;I don't really exercise,Yoga mat,Home,Early morning,30
+Male,43,5.7,150,Good,3 to 4 times a week,Intermediate,I want to be fit,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Male,18,6.1,185,Average,1 to 2 times a week,Beginner,I want to relieve stress,I can't stay motivated,Team sport,Full gym access,Gym,Early morning,30
+Male,31,5.8,160,Average,2 to 3 times a week,Beginner,I want to lose weight,I can't stay motivated,Gym,Full gym access,Gym,Evening,30
+Male,15,6,160,Perfect,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to achieve a sporting goal,I have an injury,Gym;Team sport,Full gym access,Gym,Evening,120
+Male,41,6,180,Average,1 to 2 times a week,Beginner,I want to relieve stress,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,20,5.3,165,Unfit,Never,Beginner,I want to relieve stress,I don't have enough time;I'll become too tired,I don't really exercise,No equipment,Outdoors,Early morning,0
+Male,23,5.7,135,Perfect,5 to 6 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Male,17,5.9,175,Average,Never,Beginner,I want to be fit,I don't have enough time,Swimming,Full gym access,Gym,Evening,60
+Male,20,5.7,150,Very good,3 to 4 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Male,16,5.8,160,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I don't have enough time;I can't stay motivated,Walking or jogging;Team sport,Full gym access,Gym,Evening,60
+Male,15,5.9,155,Average,1 to 2 times a week,Intermediate,I want to be fit,I don't have enough time,Walking or jogging;Gym,Full gym access,Gym,Early morning,60
+Male,22,6,170,Average,1 to 2 times a week,Beginner,I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Team sport,Full gym access,Gym,Evening,60
+Male,31,5.9,180,Average,2 to 3 times a week,Intermediate,I want to be fit,I can't stay motivated,Gym,Full gym access,Gym,Early morning,30
+Male,21,6,185,Average,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Team sport,Full gym access,Gym,Early morning,30
+Male,16,5.9,175,Average,1 to 2 times a week,Beginner,I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,30
+Male,18,5.2,175,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Evening,0
+Male,45,6.5,235,Average,Never,Beginner,I want to be fit;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Swimming;Team sport,Full gym access,Gym,Afternoon,30
+Male,15,6.3,215,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,24,6.1,190,Average,Never,Beginner,I want to be fit,I don't have enough time,Yoga,Yoga mat,Home,Early morning,60
+Male,22,6,240,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time,I don't really exercise,No equipment,Home,Evening,30
+Male,23,6.2,180,Very good,Everyday,Advanced,I want to increase muscle mass and strength,I exercise regularly with no barriers,Walking or jogging;Lifting weights,Full gym access,Gym,Evening,60
+Male,18,6.4,185,Very good,3 to 4 times a week,Advanced,I want to achieve a sporting goal,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Evening,60
+Male,22,6.1,220,Unfit,Never,Beginner,I want to be flexible,I have an injury,Walking or jogging,No equipment,Outdoors,Evening,30
+Male,23,6.1,190,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Walking or jogging;Lifting weights,Full gym access,Gym,Early morning,60
+Male,18,5.7,175,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Evening,0
+Male,18,5.7,170,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,18,5.9,160,Average,1 to 2 times a week,Beginner,I want to relieve stress,I can't stay motivated,Gym;Team sport,Full gym access,Gym,Evening,120
+Male,24,5.8,180,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,32,6.4,190,Very good,Everyday,Advanced,I want to be fit,I don't have enough time,Gym;Lifting weights;Team sport,Full gym access,Gym,Evening,60
+Male,15,5.1,130,Good,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I'll become too tired,I don't really exercise,No equipment,Home,Early morning,0
+Male,37,6.3,260,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I'll become too tired;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,30
+Male,18,5.5,205,Unfit,Never,Beginner,"See the answer to what barriers, if any, prevent you from exercising  regularly ",I don't have enough time;I can't stay motivated;I don't really enjoy exercising,I don't really exercise,No equipment,Home,Early morning,0
+Male,32,5.8,210,Unfit,Never,Beginner,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,17,6.1,150,Unfit,Never,Beginner,I want to be fit,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,0
+Male,18,5.7,150,Good,Everyday,Advanced,I want to be fit,I don't have enough time,Walking or jogging;Gym;Swimming;Yoga;Zumba dance;Lifting weights;Team sport,Full gym access;Yoga mat,Gym,Early morning,180
+Male,17,5.6,165,Average,1 to 2 times a week,Beginner,I want to lose weight;I want to be flexible,I can't stay motivated,Gym,Full gym access,Gym,Evening,60
+Male,15,6.3,190,Average,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated,Team sport,Full gym access,Gym,Evening,60
+Male,22,6.4,195,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I can't stay motivated,Walking or jogging;Gym;Swimming;Lifting weights;Team sport,Full gym access,Gym,Early morning,120
+Male,18,5.9,180,Average,3 to 4 times a week,Intermediate,I want to be fit,I have an injury,Walking or jogging;Gym,Full gym access,Gym,Evening,60
+Male,21,5.9,150,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to achieve a sporting goal,I exercise regularly with no barriers,Walking or jogging;Gym;Swimming;Lifting weights;Team sport,Full gym access,Gym,Evening,60
+Male,17,6.3,180,Very good,5 to 6 times a week,Intermediate,I want to be fit,I don't have enough time,Gym;Team sport,Full gym access,Gym,Evening,120
+Male,21,5.4,140,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I can't stay motivated;I'll become too tired,Walking or jogging;Lifting weights;Team sport,Full gym access,Gym,Afternoon,60
+Male,23,5.8,170,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time,Walking or jogging;Gym;Team sport,Full gym access,Gym,Afternoon,60
+Male,20,6.2,185,Average,1 to 2 times a week,Beginner,I want to be fit,Laziness,Gym,Full gym access,Gym,Early morning,60
+Male,22,5.8,160,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress,I don't have enough time;I'll become too tired,Walking or jogging;Gym;Swimming;Team sport,Full gym access,Gym,Evening,120
+Male,23,6,180,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to achieve a sporting goal,I don't have enough time,Team sport,Full gym access,Gym,Evening,60
+Male,17,6,195,Average,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated;I'll become too tired,Gym,Full gym access,Gym,Evening,60
+Male,20,5.9,155,Very good,3 to 4 times a week,Intermediate,I want to be fit;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated,Swimming;Team sport,Full gym access,Gym,Early morning,30
+Male,18,5.8,160,Good,5 to 6 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Gym;Yoga,Full gym access;Yoga mat,Gym,Evening,120
+Male,18,6.1,170,Very good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;Yoga;Lifting weights,Full gym access;Yoga mat,Gym,Evening,60
+Male,25,5.5,155,Good,Everyday,Intermediate,I want to increase muscle mass and strength,I don't have enough time,Gym,Full gym access,Gym,Evening,120
+Male,16,5.9,150,Very good,Everyday,Advanced,I want to be fit;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I have an injury,Walking or jogging;Team sport,Full gym access,Gym,Evening,180
+Male,45,5.9,175,Average,2 to 3 times a week,Beginner,I want to lose weight,I don't have enough time,Team sport,Full gym access,Gym,Early morning,120
+Male,24,5.8,165,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to lose weight,I don't have enough time;I'll become too tired;I don't really enjoy exercising,Walking or jogging;Swimming;Yoga;Team sport,Full gym access;Yoga mat,Gym,Early morning,30
+Male,23,5.6,160,Average,1 to 2 times a week,Beginner,I want to achieve a sporting goal,I have an injury,Team sport,Full gym access,Gym,Evening,120
+Male,21,6,165,Average,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I'll become too tired,I don't really exercise,No equipment,Home,Early morning,0
+Male,18,5.8,155,Average,1 to 2 times a week,Beginner,I want to lose weight,I have an injury,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,23,6.3,180,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Gym,Full gym access,Gym,Evening,60
+Male,25,6.1,175,Good,Everyday,Advanced,I want to be fit;I want to lose weight,I don't have enough time;I'll become too tired,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Early morning,120
+Male,16,5.8,145,Good,2 to 3 times a week,Intermediate,I want to be fit,I can't stay motivated,Team sport,Full gym access,Gym,Early morning,60
+Male,25,6.2,175,Perfect,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to achieve a sporting goal,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Evening,60
+Male,23,5.5,150,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Evening,120
+Male,24,5.9,165,Average,2 to 3 times a week,Intermediate,I want to be fit,I can't stay motivated,Walking or jogging;Team sport,Full gym access,Gym,Evening,30
+Male,22,5.7,160,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight;I want to achieve a sporting goal,I don't have enough time,Walking or jogging;Swimming;Team sport,Full gym access,Gym,Evening,120
+Male,25,5.8,170,Good,3 to 4 times a week,Intermediate,I want to be fit,I don't have enough time,Walking or jogging;Team sport,Full gym access,Gym,Early morning,30
+Male,39,5.6,165,Average,2 to 3 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,44,6.1,196,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to lose weight,I don't really enjoy exercising,Walking or jogging;Yoga,Yoga mat,Outdoors,Early morning,60
+Male,24,5.6,205,Unfit,Never,Beginner,I want to be fit;I'm sorry ... I'm not really interested in exercising,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Evening,0
+Male,22,6.2,175,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress,I don't have enough time,Walking or jogging;Lifting weights,Full gym access,Gym,Early morning,30
+Male,20,5.9,160,Average,Never,Beginner,I want to be fit,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,0
+Male,25,6,175,Average,Never,Beginner,I want to increase muscle mass and strength,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Male,32,5.6,135,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to lose weight;I want to be flexible,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,21,6,165,Average,1 to 2 times a week,Beginner,I want to be fit,I don't have enough time,Gym,Full gym access,Gym,Evening,120
+Male,23,5.6,155,Average,1 to 2 times a week,Beginner,I want to relieve stress,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Evening,60
+Male,20,6.2,210,Average,1 to 2 times a week,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I can't stay motivated,Gym;Team sport,Full gym access,Gym,Early morning,30
+Male,25,6.4,185,Good,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength,I don't have enough time,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Evening,120
+Male,17,6.1,175,Good,Everyday,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Early morning,120
+Male,23,5.8,190,Unfit,Never,Beginner,I want to be fit,I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,0
+Male,41,6,195,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,25,6.3,195,Average,1 to 2 times a week,Beginner,I want to lose weight;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,23,6.1,190,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress,I can't stay motivated;I'll become too tired;I have an injury,Walking or jogging;Lifting weights,Full gym access,Gym,Early morning,60
+Male,24,5.9,150,Perfect,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress,I exercise regularly with no barriers,Walking or jogging;Zumba dance,No equipment,Outdoors,Evening,120
+Male,23,6,175,Good,Everyday,Intermediate,I want to be fit,I don't have enough time,Gym;Team sport,Full gym access,Gym,Evening,120
+Male,21,5.6,170,Average,1 to 2 times a week,Beginner,I want to increase muscle mass and strength;I want to lose weight;I want to be flexible,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,60
+Male,24,6.1,165,Perfect,5 to 6 times a week,Advanced,I want to be fit;I want to lose weight,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,21,6.3,200,Average,Never,Beginner,I want to be fit,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,120
+Male,25,6.9,220,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I can't stay motivated;I have an injury,Walking or jogging;Gym;Lifting weights;Team sport,Full gym access,Gym,Evening,60
+Male,20,6.1,170,Perfect,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,23,6.2,200,Average,Never,Beginner,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging;I don't really exercise,No equipment,Outdoors,Evening,0
+Male,22,6,180,Average,Never,Beginner,I want to be fit,I don't have enough time,I don't really exercise,No equipment,Home,Evening,60
+Male,25,5.8,140,Perfect,3 to 4 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength,I exercise regularly with no barriers,Gym,Full gym access,Gym,Evening,120
+Male,21,6,160,Perfect,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Evening,30
+Male,28,6,210,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I'll become too tired,Gym;Team sport,Full gym access,Gym,Evening,60
+Male,25,6.5,220,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I can't stay motivated,Walking or jogging;Gym;Swimming,Full gym access,Gym,Early morning,120
+Male,17,5.5,145,Very good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I can't stay motivated;I exercise regularly with no barriers,Swimming;Team sport,Full gym access,Gym,Early morning,180
+Male,16,6.2,195,Average,Never,Beginner,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,16,6.1,215,Average,1 to 2 times a week,Intermediate,I want to be fit;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Gym,Full gym access,Gym,Evening,120
+Male,16,5.7,170,Average,Never,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I'll become too tired;I have an injury,Swimming;Yoga,Full gym access,Gym,Early morning,60
+Male,18,6.8,205,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Evening,60
+Male,18,5.6,155,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I don't have enough time;I can't stay motivated;I'll become too tired,Gym,Full gym access,Gym,Evening,120
+Male,49,6.1,190,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to achieve a sporting goal,I don't have enough time,Team sport,Full gym access,Gym,Evening,60
+Male,45,5.9,160,Average,2 to 3 times a week,Beginner,I want to be fit;I want to relieve stress,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,42,5.3,175,Unfit,Never,Beginner,I want to lose weight,I don't really enjoy exercising,I don't really exercise,No equipment,Home,Evening,0
+Male,15,6.2,165,Average,2 to 3 times a week,Intermediate,I want to lose weight,I can't stay motivated;I have an injury,Walking or jogging;Swimming,Full gym access,Gym,Evening,30
+Male,22,5.7,160,Good,2 to 3 times a week,Intermediate,I want to lose weight,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,46,5.8,185,Average,1 to 2 times a week,Intermediate,I want to lose weight;I want to relieve stress,I don't have enough time;I can't stay motivated,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Early morning,60
+Male,16,5.7,160,Very good,3 to 4 times a week,Advanced,I want to be fit;I want to look young and think young,I exercise regularly with no barriers,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,60
+Male,18,6.2,180,Good,5 to 6 times a week,Advanced,I want to be fit;I want to increase muscle mass and strength;I want to achieve a sporting goal,I don't have enough time,Walking or jogging;Team sport,Full gym access,Gym,Early morning,60
+Male,17,5.6,160,Average,2 to 3 times a week,Beginner,I want to be flexible,I don't have enough time,Walking or jogging,No equipment,Outdoors,Evening,60
+Male,16,5.9,175,Average,5 to 6 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength;I want to lose weight,I don't have enough time,Walking or jogging;Team sport,Full gym access,Gym,Early morning,30
+Male,17,5.4,145,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to increase muscle mass and strength,I don't have enough time,Walking or jogging;Gym;Lifting weights,Full gym access,Gym,Afternoon,120
+Male,16,6,175,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,22,5.9,145,Very good,3 to 4 times a week,Advanced,I want to be fit,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Evening,0
+Male,24,6.3,220,Average,Never,Beginner,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Male,25,6,210,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I'll become too tired,Gym,Full gym access,Gym,Early morning,30
+Male,15,6,195,Average,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I'll become too tired,Gym,Full gym access,Gym,Early morning,30
+Male,47,5.9,160,Good,3 to 4 times a week,Intermediate,I want to lose weight;I want to be flexible,I don't have enough time,Gym,Full gym access,Gym,Early morning,30
+Male,20,6.3,185,Very good,3 to 4 times a week,Intermediate,I want to be flexible,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,21,5.3,170,Unfit,Never,Beginner,I want to relieve stress,I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Male,22,5.6,190,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Male,21,5.7,145,Very good,5 to 6 times a week,Advanced,I want to be fit,I can't stay motivated,Yoga,Yoga mat,Home,Early morning,30
+Male,22,6,160,Very good,Everyday,Advanced,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,43,5.5,155,Very good,Everyday,Intermediate,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,16,6.1,180,Very good,3 to 4 times a week,Advanced,I want to achieve a sporting goal,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Early morning,120
+Male,18,6.1,210,Average,Never,Beginner,I want to be fit;I want to increase muscle mass and strength,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Walking or jogging;Swimming;Team sport,Full gym access,Gym,Early morning,0
+Male,25,6,190,Good,2 to 3 times a week,Intermediate,I want to be fit;I want to be flexible;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,Walking or jogging;Team sport,Full gym access,Gym,Evening,60
+Male,42,5.7,160,Good,5 to 6 times a week,Advanced,I want to be fit;I want to be flexible;I want to relieve stress,I don't have enough time;I don't really enjoy exercising,Walking or jogging;Team sport,Full gym access,Gym,Early morning,60
+Male,25,6,165,Very good,3 to 4 times a week,Intermediate,I want to be fit,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,60
+Male,17,5.8,200,Unfit,Never,Beginner,I'm sorry ... I'm not really interested in exercising,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,0
+Male,15,5.7,140,Very good,Everyday,Intermediate,I want to be flexible,I exercise regularly with no barriers,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,25,5.9,200,Unfit,Never,Beginner,I want to be flexible,I don't have enough time,I don't really exercise,No equipment,Home,Early morning,30
+Male,17,5.9,170,Good,Everyday,Intermediate,I want to be flexible,I exercise regularly with no barriers,Team sport,Full gym access,Gym,Early morning,60
+Male,25,5.7,155,Average,1 to 2 times a week,Beginner,I want to be fit;I want to relieve stress,I don't have enough time;I'll become too tired,Walking or jogging,No equipment,Outdoors,Early morning,30
+Male,19,6.1,200,Average,1 to 2 times a week,Beginner,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress;I want to achieve a sporting goal,I don't have enough time;I can't stay motivated,I don't really exercise,No equipment,Home,Early morning,0
+Male,21,6.8,220,Good,3 to 4 times a week,Intermediate,I want to be fit;I want to lose weight,I can't stay motivated;I'll become too tired,Walking or jogging;Team sport,Full gym access,Gym,Early morning,0
+Male,15,5.9,205,Unfit,1 to 2 times a week,Beginner,I want to be fit;I want to relieve stress,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Gym,Full gym access,Gym,Evening,30
+Male,28,5.9,175,Average,1 to 2 times a week,Beginner,I want to be fit;I want to lose weight;I want to be flexible,I'll become too tired;I have an injury;I don't really enjoy exercising,Walking or jogging;Yoga,Yoga mat,Outdoors,Evening,120
+Male,48,5.9,155,Very good,5 to 6 times a week,Advanced,I want to be fit;I want to relieve stress,I exercise regularly with no barriers,Gym,Full gym access,Gym,Early morning,120
+Male,43,5.6,150,Good,3 to 4 times a week,Intermediate,I want to be fit,I don't have enough time,Walking or jogging;Swimming,Full gym access,Gym,Early morning,30
+Male,20,6,185,Good,3 to 4 times a week,Beginner,I want to relieve stress,I don't really enjoy exercising,Walking or jogging,No equipment,Outdoors,Evening,30
